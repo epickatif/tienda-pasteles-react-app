@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+## Instrucciones
+
+Para comenzar a trabajar con el código de la tienda de pasteles, primero clona este repositorio a tu local con el siguiente comando:
+
+> `git clone https://github.com/epickatif/tienda-pasteles-react-app`
+
+## Servidor local
+
+Después de clonar el repositorio a tu local, instala los módulos de node con el siguiente comando:
+
+> `npm install`
+
+## Guía para trabajar con el repositorio
+
+Para hacer cambios al código, siempre crea una rama a partir de `main` para trabajar. Nunca hagas cambios directamente en la rama principal.
+
+Al terminar tus cambios haz `push` a `main` y crea un pull request con un reviewer. Una vez que el reviewer aprueba el PR, haz merge de tu rama.
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
