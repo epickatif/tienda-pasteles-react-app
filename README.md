@@ -1,5 +1,9 @@
 # Trabajando con la Tienda de Pasteles
 
+## Prerequisitos
+
+- [Node.js](https://nodejs.org/en/)
+
 ## Instrucciones
 
 Para comenzar a trabajar con el código de la tienda de pasteles, primero clona este repositorio a tu local con el siguiente comando:
